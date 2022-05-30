@@ -1,3 +1,8 @@
+/*
+To run:
+  npm init -y
+  npm install puppeteer
+*/
 const puppeteer = require("puppeteer");
 const fs = require("fs/promises");
 
